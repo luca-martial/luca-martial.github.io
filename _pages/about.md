@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+author_profile: true
 ---
 
 MSc. Public Health student – McGill University, Canada
