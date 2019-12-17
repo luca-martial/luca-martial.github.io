@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-
+    image: "/images/nate-grant-QQ9LainS6tI-unsplash.jpg"
 ---
 
 MSc. Public Health student – McGill University, Canada
