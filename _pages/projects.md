@@ -8,6 +8,7 @@ author_profile: true
 <!-- link for all embedded things: https://mmistakes.github.io/minimal-mistakes/docs/helpers/ -->
 
 # Featured Projects
+------
 
 ### Montreal Temperature Spiral (1872-2019)
 This is a featured project.
@@ -15,6 +16,7 @@ This is a featured project.
 
 
 # All Projects
+------
 This is a list of all completed projects.
 
 ### Ebay Car Sales Analysis
