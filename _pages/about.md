@@ -1,11 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "About"
 permalink: /about/
 author_profile: true
 ---
 
-MSc. Public Health student – McGill University, Canada
+MSc. Public Health student – McGill University (Canada)
 
 **Interests**: Public Health Data Science, areas of Population Health Surveillance & Urban Systems Modelling.
 
@@ -13,4 +13,5 @@ Currently working as a research assistant under the supervision of [Erica Moodie
 
 **Languages**: Python, R, SQL, Bash
 
-**Background**:** BSc. Exercise Science, Concordia University Canada. Past research experiences in Sports Science & Childhood Disability.
+**Background**: BSc. Exercise Science, Concordia University (Canada). 
+Past research experiences in Sports Science & Childhood Disability.
