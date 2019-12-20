@@ -2,6 +2,8 @@
 layout: pdf
 permalink: /knowledge-translation/
 author_profile: true
+title: "Creation of a Landscape: The Logic or Urbanization in the PRC"
+description: NYU East Asian Studies Department, MA Thesis Defense
 ---
 
 <!-- ---
