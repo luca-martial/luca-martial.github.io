@@ -24,4 +24,4 @@ Check out my take on [Ed Hawkins'](http://www.met.reading.ac.uk/~ed/home/index.p
 
 {% include video id="MbvvOTVyU-I" provider="youtube" %}
 
-For more info navigate to my [Data Science Projects page](https://luca-martial.github.io/projects/).
+For more info navigate to my [Data Science Projects](https://luca-martial.github.io/projects/) page.
