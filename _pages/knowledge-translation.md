@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /knowledge-translation/
+title: false
 author_profile: true
 ---
 
