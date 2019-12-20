@@ -20,4 +20,8 @@ Past research experiences in Sports Science & Childhood Disability.
 
 # News
 
-Check out my take on [Ed Hawkins'](http://www.met.reading.ac.uk/~ed/home/index.php) temperature spiral, adapted to Montreal
+Check out my take on [Ed Hawkins'](http://www.met.reading.ac.uk/~ed/home/index.php) temperature spiral, adapted to Montreal:
+
+{% include video id="MbvvOTVyU-I" provider="youtube" %}
+
+For more info navigate to my [Data Science Projects page](https://luca-martial.github.io/projects/).
