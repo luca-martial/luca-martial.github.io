@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Data Science Projects"
     url: /projects/
+  - title: "Knowledge Translation"
+    url: /knowledge-translation/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
