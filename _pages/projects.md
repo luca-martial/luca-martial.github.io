@@ -10,7 +10,7 @@ author_profile: true
 # Featured Projects
 
 ### Montreal Temperature Spiral (1872-2019)
-*December 2019 | Languages: Python*
+*December 2019* | *Languages: Python*
 
 The goal of this project was to create an animated spiral of Montreal's variation in temperature from 1872 to 2019.
 
@@ -29,25 +29,19 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperat
 # All Projects
 
 ### Analyzing a Star Wars Survey
-*July 2019 | Languages: Python*
+*July 2019* | *Languages: Python*
 {% include figure image_path="/images/starwars.png" caption="
-**While waiting for Star Wars: The Force Awakens to come out, the team at [FiveThirtyEight](https://fivethirtyeight.com/) became interested in answering some questions about Star Wars fans. In particular, they wondered: does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?**
+**While waiting for Star Wars: The Force Awakens to come out, the team at [FiveThirtyEight](https://fivethirtyeight.com/) became interested in answering some questions about Star Wars fans. In particular, they wondered: does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?**<br/><br/>
 
-<br/>
+**The team needed to collect data addressing this question. To do this, they surveyed Star Wars fans using SurveyMonkey. They received 835 total responses, which are downloadable from their [GitHub repo](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey).**<br/><br/>
 
-**The team needed to collect data addressing this question. To do this, they surveyed Star Wars fans using SurveyMonkey. They received 835 total responses, which are downloadable from their [GitHub repo](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey).**
-
-<br/>
-
-**The goal of this project was to conduct a rapid cleaning, exploration and analysis of the data.**
-
-<br/>
+**The goal of this project was to conduct a rapid cleaning, exploration and analysis of the data.**<br/><br/>
 
 **Code can be viewed on [GitHub](https://github.com/luca-martial/Star-Wars-Survey).**"%}
 
 
 ### Analyzing NYC High School Data
-*June 2019 | Languages: Python*
+*June 2019* | *Languages: Python*
 {% include figure image_path="/images/sat.png" caption="
 **New York City has published the following data on student [SAT](https://en.wikipedia.org/wiki/SAT) scores by high school, along with additional demographic data sets:**  
 
@@ -68,7 +62,7 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperat
 
 
 ### Analyzing Employee Exit Surveys
-*June 2019 | Languages: Python*
+*June 2019* | *Languages: Python*
 {% include figure image_path="/images/employee.png" caption="
 **In this project, I worked with exit surveys from employees of the [Department of Education, Training and Employment](https://en.wikipedia.org/wiki/Department_of_Education_and_Training_(Queensland)) (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.**  
 
@@ -88,7 +82,7 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperat
 
 
 ### Job Outcomes of College Students Between 2010 and 2012 in the U.S.
-*May 2019 | Languages: Python*
+*May 2019* | *Languages: Python*
 {% include figure image_path="/images/college.png" caption="
 **In this project, I worked with a dataset on the job outcomes of students who graduated from college between 2010 and 2012. The original data on job outcomes was released by [American Community Survey](https://www.census.gov/programs-surveys/acs/), which conducts surveys and aggregates the data. [FiveThirtyEight](https://fivethirtyeight.com/) cleaned the dataset and released it on their [Github repo](https://github.com/fivethirtyeight/data/tree/master/college-majors).**  
 
@@ -108,7 +102,7 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperat
 
 
 ### Exploring Hacker News Posts
-*April 2019 | Languages: Python*
+*April 2019* | *Languages: Python*
 {% include figure image_path="/images/hacker-news.png" caption="
 **In this project, I worked with a data set of submissions to popular technology site [Hacker News](https://news.ycombinator.com/).**  
 
@@ -132,7 +126,7 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperat
 
 
 ### Ebay Car Sales Analysis
-*March 2019 | Languages: Python*
+*March 2019* | *Languages: Python*
 {% include figure image_path="/images/ebay_car.png" caption="
 **In this project, I worked with a dataset of used cars from eBay Kleinanzeigen, a [classifieds](https://en.wikipedia.org/wiki/Classified_advertising) section of the German eBay website.**  
 
@@ -154,7 +148,7 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperat
 
 
 ### Profitable App Profiles for the App Store and Google Play Markets
-*February 2019 | Languages: Python*
+*February 2019* | *Languages: Python*
 {% include figure image_path="/images/app.png" caption="
 **Context: A company builds Android and iOS mobile apps that are free to download and install. Their main source of revenue consists of in-app ads. This means that the more users they get, the more people will be seeing the ads, the more revenue they will be able to generate.**  
 
