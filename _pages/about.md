@@ -15,3 +15,9 @@ Currently working as a research assistant under the supervision of [Erica Moodie
 
 **Background**: BSc. Exercise Science, Concordia University (Canada). 
 Past research experiences in Sports Science & Childhood Disability.
+
+------
+
+# News
+
+Check out my take on [Ed Hawkins'](http://www.met.reading.ac.uk/~ed/home/index.php) temperature spiral, adapted to Montreal
