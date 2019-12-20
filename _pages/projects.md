@@ -23,7 +23,9 @@ Historical weather data was retrieved from [Environment Canada's website](https:
 
 Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperature-Spiral).
 
-{% include video id="1ZxbsKE51XfYHBWvNHgN0LkLx2rM5-Waa" provider="google-drive" %}
+{% include figure image_path="/images/Montreal Temperature Variations (1872-2019).mp4"%}
+
+<!-- {% include video id="1ZxbsKE51XfYHBWvNHgN0LkLx2rM5-Waa" provider="google-drive" %} -->
 
 <!-- https://drive.google.com/open?id=1ZxbsKE51XfYHBWvNHgN0LkLx2rM5-Waa -->
 
