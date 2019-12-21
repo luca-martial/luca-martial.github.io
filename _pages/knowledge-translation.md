@@ -13,12 +13,12 @@ feature_row:
   - image_path: /images/LINK.png
     title: "Childhood Disability LINK"
     excerpt: "A Website for Parents of Children With Disabilities"
-#   - image_path: /images/policy_hub.png
-#     title: "Policy Hub"
-#     excerpt: "A Research Group With a Focus on Childhood Disability Policy"
-#   - image_path: /images/CNF.png
-#     title: "Electronic Patient-Reported Outcome Measures"
-#     excerpt: "A Tool for Spinal Cord Injury Patients"
+  - image_path: /images/policy_hub.png
+    title: "Policy Hub"
+    excerpt: "A Research Group With a Focus on Childhood Disability Policy"
+  - image_path: /images/CNF.png
+    title: "Electronic Patient-Reported Outcome Measures"
+    excerpt: "A Tool for Spinal Cord Injury Patients"
 ---
 
 # Videos
