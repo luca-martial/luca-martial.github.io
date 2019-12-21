@@ -37,4 +37,4 @@ gallery:
 # Podcasts
 
 ### The World of Athletic Therapy, Training and Sports Podcast
-[{% include figure image_path="/images/watts.png"%}](https://www.facebook.com/thewattspodcast/)
+{% include figure image_path="/images/watts.png" url="https://www.facebook.com/thewattspodcast/"%}
