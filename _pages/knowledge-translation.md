@@ -16,6 +16,14 @@ gallery:
     image_path: /images/policy_hub.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
+  - url: /images/CNF.png
+    image_path: /images/CNF.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /images/BRILLIANT.png
+    image_path: /images/BRILLIANT.png
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
 ---
 
 # Videos
@@ -29,7 +37,7 @@ gallery:
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
-### Jooay - An App Locating Adapted Activities Around Canada
+<!-- ### Jooay - An App Locating Adapted Activities Around Canada
 {% include figure image_path="/images/esdc_jooay.png" width="10" height="YYY"%}
 
 ------
@@ -50,4 +58,4 @@ gallery:
 ------
 
 ### BRILLIANT - A Project Aiming to Optimize Mobility of Brain Injury Patients
-{% include figure image_path="/images/BRILLIANT.png"%}
+{% include figure image_path="/images/BRILLIANT.png"%} -->
