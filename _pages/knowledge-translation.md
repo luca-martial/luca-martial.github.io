@@ -31,3 +31,10 @@ gallery:
 # Infographics
 
 {% include gallery %}
+
+------
+
+# Podcasts
+
+### The World of Athletic Therapy, Training and Sports Podcast
+[{% include figure image_path="/images/watts.png"%}](https://www.facebook.com/thewattspodcast/)
