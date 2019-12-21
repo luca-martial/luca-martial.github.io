@@ -15,7 +15,7 @@ author_profile: true
 # Infographics
 
 ### Jooay - An App Locating Adapted Activities Around Canada
-{% include figure image_path="/images/esdc_jooay.png" width="10px" height="10px"%}
+{% include figure image_path="/images/esdc_jooay.png" width="10" height="YYY"%}
 
 ------
 
