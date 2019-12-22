@@ -30,7 +30,7 @@ gallery:
 
 # Videos
 
-### Jooay - An App Locating Adapted Activities Around Canada
+### Jooay - An App Locating Adapted Activities Around Canada<br/>
 {% include video id="0vk4HCBhGH8" provider="youtube" %}
 
 ------
