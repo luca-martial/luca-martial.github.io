@@ -67,7 +67,7 @@ I played the role of a data analyst and pretended my stakeholders want to know t
 
 - Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
 - Did more employees in the DETE or TAFE institute end their employment because they were dissatisfied in some way?
-- How many people in each age group resgined due to some kind of dissatisfaction? Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+- How many people in each age group resigned due to some kind of dissatisfaction? Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
 
 I had to combine the results for *both* surveys to answer these questions. However, although both used the same survey template, one of them customized some of the answers. I therefore aimed to perform lots of data cleaning before getting started analyzing.<br/><br/>
 
@@ -85,7 +85,7 @@ Using visualizations, I explored the following questions from the dataset:
 
 - Do students in more popular majors make more money?
 - How many majors are predominantly male? Predominantly female?
-- Which category of majors have the most students?
+- Which categories of majors have the most students?
 
 Code can be viewed on [GitHub](https://github.com/luca-martial/Earnings-Based-on-College-Majors)."%}
 
@@ -95,7 +95,7 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/Earnings-Based-on
 {% include figure image_path="/images/hacker-news.png" caption="
 In this project, I worked with a data set of submissions to popular technology site [Hacker News](https://news.ycombinator.com/).<br/><br/>
 
-Hacker news is a site started by the startup incubator [Y Combinator](https://www.ycombinator.com/), where user-submitted stories (known as 'posts') are voted and commented upon, similar to reddit.<br/><br/>
+Hacker News is a site started by the startup incubator [Y Combinator](https://www.ycombinator.com/), where user-submitted stories (known as 'posts') are voted and commented upon, similar to Reddit.<br/><br/>
 
 I was specifically interested in posts whose titles begin with either 'Ask HN' or 'Show HN'. Users submit 'Ask HN' posts to ask the Hacker News community a specific question. Likewise, users submit 'Show HN' posts to show the Hacker News community a project, product, or just generally something interesting.<br/><br/>
 
@@ -109,7 +109,7 @@ I compared these two types of posts to determine the following:
 Code can be viewed on [GitHub](https://github.com/luca-martial/Hacker-News-Posts-Analysis)."%}
 
 
-### Ebay Car Sales Analysis
+### eBay Car Sales Analysis
 *March 2019* | *Languages: Python*
 {% include figure image_path="/images/ebay_car.png" caption="
 In this project, I worked with a dataset of used cars from eBay Kleinanzeigen, a [classifieds](https://en.wikipedia.org/wiki/Classified_advertising) section of the German eBay website.<br/><br/>
@@ -129,6 +129,6 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/Exploring-Ebay-Ca
 {% include figure image_path="/images/app.png" caption="
 Context: A company builds Android and iOS mobile apps that are free to download and install. Their main source of revenue consists of in-app ads. This means that the more users they get, the more people will be seeing the ads, the more revenue they will be able to generate.<br/><br/>
 
-Goal: My goal was to help the company's developers understand what different kinds of apps are likely to attract more users on Google Play and the App Store.<br/><br/>
+Goal: My goal was to help the company's developers understand what kinds of apps are likely to attract more users on Google Play and the App Store.<br/><br/>
 
 Code can be viewed on [GitHub](https://github.com/luca-martial/Popular-Apps-Project)."%}
