@@ -9,12 +9,12 @@ MSc. Public Health student – McGill University (Canada)
 
 **Interests**: Public Health Data Science, areas of Population Health Surveillance & Urban Systems Modelling.
 
-Currently working as a research assistant under the supervision of [Erica Moodie](http://www.ericamoodie.com), Associate Professor of Biostatistics at McGill University. Work revolves around simulation study to evaluate statistical tools for adaptive treatment strategies as well as preparing Biostatistics course content using wearable and historical weather data.
+Currently a visiting scientist at Cambridge University. Working as part of the Public Health Modelling group (MRC Epidemiology Unit), exploring the use of street view imaging data and deep learning technology to model travel behaviours in lower- and middle-income countries. Concurrently working on a project evaluating statistical tools for adaptive treatment strategies under the supervision of [Erica Moodie](http://www.ericamoodie.com), Professor of Biostatistics at McGill University.
 
 **Languages**: Python, R, SQL, Bash
 
 **Background**: BSc. Exercise Science, Concordia University (Canada). 
-Past research experiences in Sports Science & Childhood Disability.
+Past research experiences in sports science & childhood disability policy.
 
 ------
 
