@@ -12,7 +12,7 @@ author_profile: true
 ### Identifying Improper Mask Wear
 *July 2020* | *Python*
 {% include figure image_path="/images/mask_wear.png" caption="
-The goal of this project was to use the fastai framework to build an image classifier that identifies whether a person is wearing their mask properly or imporperly. Images were manually gathered using Google Images. A total of 45 images of proper mask wear and 45 images of improper mask wear were gathered.
+The goal of this project was to use the fastai framework to build an image classifier that identifies whether a person is wearing their mask properly or imporperly. Images were manually gathered using Google Images. A total of 45 images of proper mask wear and 45 images of improper mask wear were gathered.<br/><br/>
 
 *Results: reached an error rate of 17% (3 images out of 18 were incorrectly classified).*<br/><br/>
 
@@ -21,7 +21,8 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/t
 
 ### Montreal Temperature Spiral (1872-2019)
 *December 2019* | *Python*
-{% include video id="MbvvOTVyU-I" provider="youtube" caption="
+{% include video id="MbvvOTVyU-I" provider="youtube" caption=""%}
+
 The goal of this project was to create an animated spiral of Montreal's variation in temperature from 1872 to 2019.
 
 Background: [Ed Hawkins](http://www.met.reading.ac.uk/~ed/home/index.php), a climate scientist, unveiled [an animated visualization](http://www.climate-lab-book.ac.uk/spirals/) in 2017 which captivated the world. This visualization showed the deviations of the global average temperature from 1850 to 2017. It was reshared millions of times over Twitter and Facebook and a version of it was even shown at the opening ceremony for the Rio Olympics.
@@ -30,18 +31,7 @@ This animation was created with the help of [an article on Dataquest.io](https:/
 
 Historical weather data was retrieved from [Environment Canada's website](https://climate.weather.gc.ca/). Recordings from the Montreal McGill Station (Dr. Penfield Street/Redpath Street) provided monthly weather data from 1872 to 1993 while recordings from the Montreal McTavish Station (McTavish Street/Dr. Penfield Street), just 700 meters away, provided daily weather data from 1994 to 2019. Combining data from both sources may constitute a source of error, but with the unavailability of continuous weather recordings from 1872 to 2019 from a single station, there appears to be no alternative solution.
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperature-Spiral)"%}
-{% include caption="
-The goal of this project was to create an animated spiral of Montreal's variation in temperature from 1872 to 2019.
-
-Background: [Ed Hawkins](http://www.met.reading.ac.uk/~ed/home/index.php), a climate scientist, unveiled [an animated visualization](http://www.climate-lab-book.ac.uk/spirals/) in 2017 which captivated the world. This visualization showed the deviations of the global average temperature from 1850 to 2017. It was reshared millions of times over Twitter and Facebook and a version of it was even shown at the opening ceremony for the Rio Olympics.
-
-This animation was created with the help of [an article on Dataquest.io](https://www.dataquest.io/blog/climate-temperature-spirals-python/) written by Srini Kadamati.
-
-Historical weather data was retrieved from [Environment Canada's website](https://climate.weather.gc.ca/). Recordings from the Montreal McGill Station (Dr. Penfield Street/Redpath Street) provided monthly weather data from 1872 to 1993 while recordings from the Montreal McTavish Station (McTavish Street/Dr. Penfield Street), just 700 meters away, provided daily weather data from 1994 to 2019. Combining data from both sources may constitute a source of error, but with the unavailability of continuous weather recordings from 1872 to 2019 from a single station, there appears to be no alternative solution.
-
-Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperature-Spiral)"%}
-
+Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperature-Spiral)
 
 ### Analyzing a Star Wars Survey
 *July 2019* | *Python*
