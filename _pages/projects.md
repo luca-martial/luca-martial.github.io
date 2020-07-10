@@ -7,14 +7,6 @@ author_profile: true
 
 <!-- link for all embedded things: https://mmistakes.github.io/minimal-mistakes/docs/helpers/ -->
 
-<!-- 
-# Featured Projects
--->
-
-
-<!-- ------
--->
-
 # All Projects
 
 ### Identifying Improper Mask Wear
@@ -38,7 +30,7 @@ This animation was created with the help of [an article on Dataquest.io](https:/
 
 Historical weather data was retrieved from [Environment Canada's website](https://climate.weather.gc.ca/). Recordings from the Montreal McGill Station (Dr. Penfield Street/Redpath Street) provided monthly weather data from 1872 to 1993 while recordings from the Montreal McTavish Station (McTavish Street/Dr. Penfield Street), just 700 meters away, provided daily weather data from 1994 to 2019. Combining data from both sources may constitute a source of error, but with the unavailability of continuous weather recordings from 1872 to 2019 from a single station, there appears to be no alternative solution.
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperature-Spiral)%}
+Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperature-Spiral)"%}
 
 
 ### Analyzing a Star Wars Survey
