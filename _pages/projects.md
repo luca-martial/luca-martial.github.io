@@ -7,11 +7,29 @@ author_profile: true
 
 <!-- link for all embedded things: https://mmistakes.github.io/minimal-mistakes/docs/helpers/ -->
 
+<!-- 
 # Featured Projects
+-->
+
+
+<!-- ------
+-->
+
+# All Projects
+
+### Identifying Improper Mask Wear
+*July 2020* | *Python*
+{% include figure image_path="/images/mask_wear.png" caption="
+The goal of this project was to use the fastai framework to build an image classifier that identifies whether a person is wearing their mask properly or imporperly. Images were manually gathered using Google Images. A total of 45 images of proper mask wear and 45 images of improper mask wear were gathered.
+
+*Results: reached an error rate of 17% (3 images out of 18 were incorrectly classified).*<br/><br/>
+
+Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/tree/master/mask-wear)"%}
+
 
 ### Montreal Temperature Spiral (1872-2019)
-*December 2019* | *Languages: Python*
-
+*December 2019* | *Python*
+{% include video id="MbvvOTVyU-I" provider="youtube" caption="
 The goal of this project was to create an animated spiral of Montreal's variation in temperature from 1872 to 2019.
 
 Background: [Ed Hawkins](http://www.met.reading.ac.uk/~ed/home/index.php), a climate scientist, unveiled [an animated visualization](http://www.climate-lab-book.ac.uk/spirals/) in 2017 which captivated the world. This visualization showed the deviations of the global average temperature from 1850 to 2017. It was reshared millions of times over Twitter and Facebook and a version of it was even shown at the opening ceremony for the Rio Olympics.
@@ -20,16 +38,11 @@ This animation was created with the help of [an article on Dataquest.io](https:/
 
 Historical weather data was retrieved from [Environment Canada's website](https://climate.weather.gc.ca/). Recordings from the Montreal McGill Station (Dr. Penfield Street/Redpath Street) provided monthly weather data from 1872 to 1993 while recordings from the Montreal McTavish Station (McTavish Street/Dr. Penfield Street), just 700 meters away, provided daily weather data from 1994 to 2019. Combining data from both sources may constitute a source of error, but with the unavailability of continuous weather recordings from 1872 to 2019 from a single station, there appears to be no alternative solution.
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperature-Spiral).
+Code can be viewed on [GitHub](https://github.com/luca-martial/Montreal-Temperature-Spiral)%}
 
-{% include video id="MbvvOTVyU-I" provider="youtube" %}
-
-------
-
-# All Projects
 
 ### Analyzing a Star Wars Survey
-*July 2019* | *Languages: Python*
+*July 2019* | *Python*
 {% include figure image_path="/images/starwars.png" caption="
 While waiting for Star Wars: The Force Awakens to come out, the team at [FiveThirtyEight](https://fivethirtyeight.com/) became interested in answering some questions about Star Wars fans. In particular, they wondered: does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?<br/><br/>
 
@@ -37,11 +50,11 @@ The team needed to collect data addressing this question. To do this, they surve
 
 The goal of this project was to conduct a rapid cleaning, exploration and analysis of the data.<br/><br/>
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/Star-Wars-Survey)."%}
+Code can be viewed on [GitHub](https://github.com/luca-martial/Star-Wars-Survey)"%}
 
 
 ### Analyzing NYC High School Data
-*June 2019* | *Languages: Python*
+*June 2019* | *Python*
 {% include figure image_path="/images/sat.png" caption="
 New York City has published the following data on student [SAT](https://en.wikipedia.org/wiki/SAT) scores by high school, along with additional demographic data sets:
 
@@ -55,11 +68,11 @@ New York City has published the following data on student [SAT](https://en.wikip
 
 New York City has a significant immigrant population and is very diverse, so comparing demographic factors such as race, income and gender with SAT scores can be an interesting way to explore whether the SAT is a fair test. This was the goal of this quick analysis.<br/><br/>
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/Analyzing-NYC-High-School-Data)."%}
+Code can be viewed on [GitHub](https://github.com/luca-martial/Analyzing-NYC-High-School-Data)"%}
 
 
 ### Analyzing Employee Exit Surveys
-*June 2019* | *Languages: Python*
+*June 2019* | *Python*
 {% include figure image_path="/images/employee.png" caption="
 In this project, I worked with exit surveys from employees of the [Department of Education, Training and Employment](https://en.wikipedia.org/wiki/Department_of_Education_and_Training_(Queensland)) (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.<br/><br/>
 
@@ -71,11 +84,11 @@ I played the role of a data analyst and pretended my stakeholders want to know t
 
 I had to combine the results for *both* surveys to answer these questions. However, although both used the same survey template, one of them customized some of the answers. I therefore aimed to perform lots of data cleaning before getting started analyzing.<br/><br/>
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/Analyzing-Employee-Exit-Surveys)."%}
+Code can be viewed on [GitHub](https://github.com/luca-martial/Analyzing-Employee-Exit-Surveys)"%}
 
 
 ### Job Outcomes of College Students Between 2010 and 2012 in the U.S.
-*May 2019* | *Languages: Python*
+*May 2019* | *Python*
 {% include figure image_path="/images/college.png" caption="
 In this project, I worked with a dataset on the job outcomes of students who graduated from college between 2010 and 2012. The original data on job outcomes was released by [American Community Survey](https://www.census.gov/programs-surveys/acs/), which conducts surveys and aggregates the data. [FiveThirtyEight](https://fivethirtyeight.com/) cleaned the dataset and released it on their [Github repo](https://github.com/fivethirtyeight/data/tree/master/college-majors).<br/><br/>
 
@@ -87,11 +100,11 @@ Using visualizations, I explored the following questions from the dataset:
 - How many majors are predominantly male? Predominantly female?
 - Which categories of majors have the most students?
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/Earnings-Based-on-College-Majors)."%}
+Code can be viewed on [GitHub](https://github.com/luca-martial/Earnings-Based-on-College-Majors)"%}
 
 
 ### Exploring Hacker News Posts
-*April 2019* | *Languages: Python*
+*April 2019* | *Python*
 {% include figure image_path="/images/hacker-news.png" caption="
 In this project, I worked with a data set of submissions to popular technology site [Hacker News](https://news.ycombinator.com/).<br/><br/>
 
@@ -106,11 +119,11 @@ I compared these two types of posts to determine the following:
 - Do Ask HN or Show HN posts receive more points on average?
 - Do posts created at a certain time receive more points on average?
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/Hacker-News-Posts-Analysis)."%}
+Code can be viewed on [GitHub](https://github.com/luca-martial/Hacker-News-Posts-Analysis)"%}
 
 
 ### eBay Car Sales Analysis
-*March 2019* | *Languages: Python*
+*March 2019* | *Python*
 {% include figure image_path="/images/ebay_car.png" caption="
 In this project, I worked with a dataset of used cars from eBay Kleinanzeigen, a [classifieds](https://en.wikipedia.org/wiki/Classified_advertising) section of the German eBay website.<br/><br/>
 
@@ -121,14 +134,14 @@ The dataset was originally [scraped](https://en.wikipedia.org/wiki/Web_scraping)
 
 This was done to allow data scientists to put into use their data cleaning skills. The aim of this project was to clean the data and analyze the included used car listings.<br/><br/>
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/Exploring-Ebay-Car-Sales-Data)." %}
+Code can be viewed on [GitHub](https://github.com/luca-martial/Exploring-Ebay-Car-Sales-Data)"%}
 
 
 ### Profitable App Profiles for the App Store and Google Play Markets
-*February 2019* | *Languages: Python*
+*February 2019* | *Python*
 {% include figure image_path="/images/app.png" caption="
 Context: A company builds Android and iOS mobile apps that are free to download and install. Their main source of revenue consists of in-app ads. This means that the more users they get, the more people will be seeing the ads, the more revenue they will be able to generate.<br/><br/>
 
 Goal: My goal was to help the company's developers understand what kinds of apps are likely to attract more users on Google Play and the App Store.<br/><br/>
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/Popular-Apps-Project)."%}
+Code can be viewed on [GitHub](https://github.com/luca-martial/Popular-Apps-Project)"%}

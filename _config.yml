@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luca Martial"
+title                    : "Portfolio Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Luca Martial"
@@ -130,7 +130,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MartialLuca"
+      # url: "https://twitter.com/MartialLuca"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:luca.martial@mail.mcgill.ca
@@ -149,7 +149,7 @@ footer:
       url: "https://github.com/luca-martial"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/MartialLuca"
+      # url: "https://twitter.com/MartialLuca"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
