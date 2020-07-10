@@ -21,7 +21,7 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/t
 
 ### Montreal Temperature Spiral (1872-2019)
 *December 2019* | *Python*
-{% include video id="MbvvOTVyU-I" provider="youtube" caption="
+{% include video id="MbvvOTVyU-I" provider="youtube" description="
 The goal of this project was to create an animated spiral of Montreal's variation in temperature from 1872 to 2019.
 
 Background: [Ed Hawkins](http://www.met.reading.ac.uk/~ed/home/index.php), a climate scientist, unveiled [an animated visualization](http://www.climate-lab-book.ac.uk/spirals/) in 2017 which captivated the world. This visualization showed the deviations of the global average temperature from 1850 to 2017. It was reshared millions of times over Twitter and Facebook and a version of it was even shown at the opening ceremony for the Rio Olympics.
