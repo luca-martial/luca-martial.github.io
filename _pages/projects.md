@@ -9,12 +9,40 @@ author_profile: true
 
 # All Projects
 
+### Web App: Classifying Endangered Birds Species
+*July 2020* | *Python, JS, CSS, HTML*
+{% include figure image_path="/images/Projects12.png" caption="
+This web app was built to analyze images of endangered waterbird species present throughout the Prek Toal Reserve in Cambodia and determine which species is present in the image. This classifier has the potential to bring support to NGOs such as [Osmose](http://osmosetonlesap.net/wp/index.php/en/home/) which ensure the protection of waterbird colonies throughout the reproductive cycle.<br/><br/>
+
+The web app described here is available at https://classify-my-bird.onrender.com/. Test it out with pictures of birds from the Prek Toal Reserve!<br/><br/>
+
+Model accuracy isn't great and evidently, this is a toy project – so please don't take the output seriously.<br/><br/>
+
+Code can be viewed on [GitHub](https://github.com/luca-martial/osmose-app)"%}
+
+
+### Classifying Endangered Birds From the Prek Toal Reserve
+*July 2020* | *Python*
+{% include figure image_path="/images/Projects11.png" caption="
+The goal of this project was to build an image classifier that identifies different endangered waterbird species present throughout the Prek Toal Reserve in Cambodia. This classifier has the potential to bring support to NGOs such as [Osmose](http://osmosetonlesap.net/wp/index.php/en/home/) which ensure the protection of waterbird colonies throughout the reproductive cycle. Data was collected using Google Images.<br/><br/>
+
+Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/tree/master/osmose-birds)"%}
+
+
+### Web App: Identifying Improper Mask Wear
+*July 2020* | *Python, JS, CSS, HTML*
+{% include figure image_path="/images/Projects10.png" caption="
+This web app was built to analyze images and identify whether a person in an image is wearing their mask properly or improperly. The web app described here is available at https://to-mask-or-not-to-mask.onrender.com. Test it out with pictures of you wearing a mask!<br/><br/>
+
+Model accuracy isn't great and evidently, this is a toy project – so please don't take the output seriously.<br/><br/>
+
+Code can be viewed on [GitHub](https://github.com/luca-martial/mask-wear-app)"%}
+
+
 ### Identifying Improper Mask Wear
 *July 2020* | *Python*
 {% include figure image_path="/images/mask_wear.png" caption="
-The goal of this project was to use the fastai framework to build an image classifier that identifies whether a person is wearing their mask properly or imporperly. Images were manually gathered using Google Images. A total of 45 images of proper mask wear and 45 images of improper mask wear were gathered.<br/><br/>
-
-*Results: reached an error rate of 17% (3 images out of 18 were incorrectly classified).*<br/><br/>
+The goal of this project was to build an image classifier that identifies whether a person is wearing their mask properly or imporperly. Data was collected using Google Images.<br/><br/>
 
 Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/tree/master/mask-wear)"%}
 
