@@ -9,6 +9,16 @@ author_profile: true
 
 # All Projects
 
+### Real or Not? NLP with Disaster Tweets
+*August 2020* | *Python*
+{% include figure image_path="/images/Projects13.png" caption="
+The goal of this project was to build a machine learning model that predicts which Tweets are about real disasters and which ones aren’t. I had access to a dataset of 10,000 tweets that were hand classified. This project was part of a Kaggle competition where I scored a 79.5% accuracy.<br/><br/>
+
+**Acknowledgments:** this dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website [here](https://appen.com/resources/datasets/).<br/><br/>
+
+Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/tree/master/nlp-tweets)"%}
+
+
 ### Web App: Classifying Endangered Birds Species
 *July 2020* | *Python, JS, CSS, HTML*
 {% include figure image_path="/images/Projects12.png" caption="
