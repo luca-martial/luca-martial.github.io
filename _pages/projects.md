@@ -24,7 +24,7 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/t
 {% include figure image_path="/images/Projects12.png" caption="
 This web app was built to analyze images of endangered waterbird species present throughout the Prek Toal Reserve in Cambodia and determine which species is present in the image. This classifier has the potential to bring support to NGOs such as [Osmose](http://osmosetonlesap.net/wp/index.php/en/home/) which ensure the protection of waterbird colonies throughout the reproductive cycle.<br/><br/>
 
-The web app described here is available at [classify-my-bird.onrender.com/](https://classify-my-bird.onrender.com/). Test it out with pictures of birds from the Prek Toal Reserve!<br/><br/>
+The web app described here is available at [classify-my-bird.onrender.com/](https://classify-my-bird-jrrp.onrender.com/). Test it out with pictures of birds from the Prek Toal Reserve!<br/><br/>
 
 Model accuracy isn't great and evidently, this is a toy project – so please don't take the output seriously.<br/><br/>
 
@@ -42,7 +42,7 @@ Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/t
 ### Web App: Identifying Improper Mask Wear
 *July 2020* | *Python, JS, CSS, HTML*
 {% include figure image_path="/images/Projects10.png" caption="
-This web app was built to analyze images and identify whether a person in an image is wearing their mask properly or improperly. The web app described here is available at [to-mask-or-not-to-mask.onrender.com](https://to-mask-or-not-to-mask.onrender.com). Test it out with pictures of you wearing a mask!<br/><br/>
+This web app was built to analyze images and identify whether a person in an image is wearing their mask properly or improperly. The web app described here is available at [to-mask-or-not-to-mask.onrender.com](https://to-mask-or-not-to-mask-h54i.onrender.com). Test it out with pictures of you wearing a mask!<br/><br/>
 
 Model accuracy isn't great and evidently, this is a toy project – so please don't take the output seriously.<br/><br/>
 
