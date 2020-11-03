@@ -19,7 +19,7 @@ The goal of this project was to build a machine learning model that predicts whi
 Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/tree/master/nlp-tweets)"%}
 
 
-### Web App: Classifying Endangered Birds Species
+<!-- ### Web App: Classifying Endangered Birds Species
 *July 2020* | *Python, JS, CSS, HTML*
 {% include figure image_path="/images/Projects12.png" caption="
 This web app was built to analyze images of endangered waterbird species present throughout the Prek Toal Reserve in Cambodia and determine which species is present in the image. This classifier has the potential to bring support to NGOs such as [Osmose](http://osmosetonlesap.net/wp/index.php/en/home/) which ensure the protection of waterbird colonies throughout the reproductive cycle.<br/><br/>
@@ -28,7 +28,7 @@ The web app described here is available at [classify-my-bird.onrender.com/](http
 
 Model accuracy isn't great and evidently, this is a toy project – so please don't take the output seriously.<br/><br/>
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/osmose-app)"%}
+Code can be viewed on [GitHub](https://github.com/luca-martial/osmose-app)"%} -->
 
 
 ### Classifying Endangered Birds From the Prek Toal Reserve
@@ -39,14 +39,14 @@ The goal of this project was to build an image classifier that identifies differ
 Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/tree/master/osmose-birds)"%}
 
 
-### Web App: Identifying Improper Mask Wear
+<!-- ### Web App: Identifying Improper Mask Wear
 *July 2020* | *Python, JS, CSS, HTML*
 {% include figure image_path="/images/Projects10.png" caption="
 This web app was built to analyze images and identify whether a person in an image is wearing their mask properly or improperly. The web app described here is available at [to-mask-or-not-to-mask.onrender.com](https://to-mask-or-not-to-mask-h54i.onrender.com). Test it out with pictures of you wearing a mask!<br/><br/>
 
 Model accuracy isn't great and evidently, this is a toy project – so please don't take the output seriously.<br/><br/>
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/mask-wear-app)"%}
+Code can be viewed on [GitHub](https://github.com/luca-martial/mask-wear-app)"%} -->
 
 
 ### Identifying Improper Mask Wear
