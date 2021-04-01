@@ -9,6 +9,15 @@ author_profile: true
 
 # All Projects
 
+### Tabular Playground Series - Mar 2021 (Kaggle)
+*March 2021* | *Python*
+{% include figure image_path="/images/Projects15.png" caption="
+The goal of this project was to build machine learning models to predict a binary target in a tabular dataset, as part of the March 2021 version of the monthly [Tabular Playground Series Kaggle competition](https://www.kaggle.com/c/tabular-playground-series-mar-2021/overview). I experimented with decision trees, random forests, neural networks and ensembling.<br/><br/>
+
+The dataset used for this competition is synthetic but based on a real dataset and generated using a CTGAN. The original dataset deals with predicting the amount of an insurance claim. Although the features are anonymized, they have properties relating to real-world features. My best submission scored a AUC-ROC of 0.88675 on the private leaderboard, placing me in the top 700.<br/><br/>
+
+Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-v2-projects/tree/main/march-tabular-challenge)"%}
+
 ### Rainforest Connection Species Audio Detection
 *February 2021* | *Python*
 {% include figure image_path="/images/Projects14.png" caption="
