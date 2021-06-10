@@ -5,13 +5,13 @@ permalink: /
 author_profile: true
 ---
 
-MSc. Public Health student – McGill University (Canada)
+**Interests**: using machine learning for anything other than cats vs dogs
 
-**Interests**: Public Health Data Science, areas of Population Health Surveillance & Urban Systems Modelling.
+Currently building ML projects for my portfolio and studying deep learning / reinforcement learning.
 
-Currently a [visiting scientist](http://www.mrc-epid.cam.ac.uk/people/luca-martial/) at the University of Cambridge. Working as part of the Public Health Modelling group (MRC Epidemiology Unit), exploring the use of street view imaging data and deep learning to model travel behaviours in lower- and middle-income countries. Concurrently studying deep learning and reinforcement learning.
+**</>** Python, R, SQL, Java, Bash | fastai, PyTorch, TensorFlow, AWS, GCP
 
-**</>** Python, R, Bash, SQL, Java
+**Education**: MSc. Public Health – McGill University, Montreal, Canada
 
 ------
 
