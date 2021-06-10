@@ -44,7 +44,7 @@ The goal of this project was to build a machine learning model that predicts whi
 
 **Acknowledgments:** this dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website [here](https://appen.com/resources/datasets/).<br/><br/>
 
-Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/tree/master/nlp-tweets)"%}{: .w-50 .tc}
+Code can be viewed on [GitHub](https://github.com/luca-martial/fastai-projects/tree/master/nlp-tweets)" width="150"%}
 
 
 <!-- ### Web App: Classifying Endangered Birds Species
