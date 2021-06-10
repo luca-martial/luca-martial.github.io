@@ -9,9 +9,7 @@ author_profile: true
 
 Currently building ML projects for my portfolio and studying deep learning / reinforcement learning.
 
-**<languages/>** Python, R, SQL, Java, Bash
-
-**<frameworks/>** fastai, PyTorch, TensorFlow, AWS, GCP
+**</>** Python, R, SQL, Java, Bash | fastai, PyTorch, TensorFlow, AWS, GCP
 
 **Education**: MSc. Public Health – McGill University, Montreal, Canada
 
