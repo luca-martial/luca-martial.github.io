@@ -10,6 +10,15 @@ author_profile: true
 # All Projects
 
 ### Tabular Playground Series - Mar 2021 (Kaggle)
+*June 2021* | *Python*
+{% include figure image_path="/images/Projects16.gif" caption="
+The goal of this project was to create an AI replica of Elon Musk that can chat and moderate user interactions on Discord. Its conversation abilities come from Microsoft's [DialoGPT conversational model](https://huggingface.co/microsoft/DialoGPT-medium) that I fine-tuned on conversation transcripts of Elon Musk's appearance on the Joe Rogan Experience, the Lex Fridman Podcast and a Clubhouse interview. Its moderation abilities come from Unitary's [Multilingual Toxic Comment Classifier](https://huggingface.co/unitary/multilingual-toxic-xlm-roberta) allowing it to assess the toxicity of a message, warn users when they're using foul language and kick them out of the server after 3 strikes.<br/><br/>
+
+The data used are webscraped transcripts from Elon's interviews on [Clubhouse](https://zamesin.me/clubhouse-elon-musk-interview/) and the [Lex Fridman podcast](https://lexfridman.com/wordpress/wp-content/uploads/2019/11/elon_musk_lex_fridman_2_transcript.pdf), as well as a [ready-to-use dataset](https://www.kaggle.com/christianlillelund/joe-rogan-experience-1169-elon-musk) retrieved from Kaggle of Elon's interview on the Joe Rogan Experience. <br/><br/>
+
+Code can be viewed on [GitHub](https://github.com/luca-martial/elon-bot)"%}
+
+### Tabular Playground Series - Mar 2021 (Kaggle)
 *March 2021* | *Python*
 {% include figure image_path="/images/Projects15.png" caption="
 The goal of this project was to build machine learning models to predict a binary target in a tabular dataset, as part of the March 2021 version of the monthly [Tabular Playground Series Kaggle competition](https://www.kaggle.com/c/tabular-playground-series-mar-2021/overview). I experimented with decision trees, random forests, neural networks and ensembling.<br/><br/>
