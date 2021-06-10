@@ -21,15 +21,6 @@ gallery:
     title: "Electronic Patient-Reported Outcome Measures - A Tool for Spinal Cord Injury Patients"
 ---
 
-# Newsletter Publications
-
-### Jooay - An App Locating Adapted Activities Around Canada
-{% include figure image_path="/images/jooay_news.png" caption="Let’s Go ‘Jooay’: version 2.0 of app linking disabled children to leisure activities close to home rolled out<br/><br/>
-
-Access it [here](https://publications.mcgill.ca/medenews/2018/11/16/lets-go-jooay-version-2-0-of-app-linking-disabled-children-to-leisure-activities-close-to-home-rolled-out/)"%}
-
-------
-
 # Videos
 
 ### Jooay - An App Locating Adapted Activities Around Canada<br/>
@@ -43,6 +34,6 @@ Access it [here](https://publications.mcgill.ca/medenews/2018/11/16/lets-go-jooa
 
 ------
 
-# Podcasts
+# Podcast
 
 {% include figure image_path="/images/watts.png" caption="Access it [here](https://www.facebook.com/thewattspodcast/)"%}
