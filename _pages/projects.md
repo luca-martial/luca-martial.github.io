@@ -9,7 +9,7 @@ author_profile: true
 
 # All Projects
 
-### Building an Entity Normalization Engine ⚙️
+### Building an Entity Normalization Engine
 *August 2021* | *Python*
 {% include figure image_path="/images/Projects17.png" caption="
 The goal of this project was to create an entity normalization engine. The input to this engine is short strings that could encompass the following entities: company names, company addresses, serial numbers, physical goods and locations. The output is a timestamped CSV file of the grouped entities.<br/><br/>
