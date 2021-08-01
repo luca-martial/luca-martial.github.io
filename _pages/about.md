@@ -7,11 +7,11 @@ author_profile: true
 
 **Interests**: using machine learning for anything other than cats vs dogs
 
-Currently building ML projects for my portfolio and studying deep learning / reinforcement learning.
+Currently building ML projects for my portfolio and studying deep learning.
 
-**</>** Python, R, SQL, Java, Bash // fastai, PyTorch, TensorFlow, AWS, GCP
+**</>** Python, R, SQL, Bash // fastai, PyTorch, TensorFlow, AWS, GCP
 
-**Education**: MSc. Public Health – McGill University, Montreal, Canada
+**Education**: MSc. Public Health – McGill University, Canada
 
 ------
 

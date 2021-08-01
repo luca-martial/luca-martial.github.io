@@ -9,6 +9,18 @@ author_profile: true
 
 # All Projects
 
+### Building an Entity Normalization Engine ⚙️
+*August 2021* | *Python*
+{% include figure image_path="/images/Projects17.png" caption="
+The goal of this project was to create an entity normalization engine. The input to this engine is short strings that could encompass the following entities: company names, company addresses, serial numbers, physical goods and locations. The output is a timestamped CSV file of the grouped entities.<br/><br/>
+
+The approach consisted of the following steps:<br/>
+1. Retrieve incoming string, feed to Facebook's [bart-large-mnli](https://huggingface.co/facebook/bart-large-mnli) NLI-based Zero Shot Text Classification model using HuggingFace's zero-shot classification pipeline. Assign class with highest probability to string.<br/>
+2. Feed string to that class-specific entity normalization engine. Each class-specific engine has its unique text pre-processing pipeline and uses TF-IDF with N-Grams to calculate cosine similarities for all strings in that class.<br/>
+3. Entities are then grouped based on a minimum threshold of cosine similarity and we output a CSV with grouped entities and their group-representatives.<br/><br/>
+
+Code can be viewed on [GitHub](hhttps://github.com/luca-martial/entity-normalization-engine)"%}
+
 ### ElonBot: The Discord AI Bot for Chatting and Moderation
 *June 2021* | *Python*
 {% include figure image_path="/images/Projects16.gif" caption="
