@@ -19,7 +19,7 @@ The approach consisted of the following steps:<br/>
 2. Feed string to that class-specific entity normalization engine. Each class-specific engine has its unique text pre-processing pipeline and uses TF-IDF with N-Grams to calculate cosine similarities for all strings in that class.<br/>
 3. Entities are then grouped based on a minimum threshold of cosine similarity and we output a CSV with grouped entities and their group-representatives.<br/><br/>
 
-Code can be viewed on [GitHub](hhttps://github.com/luca-martial/entity-normalization-engine)"%}
+Code can be viewed on [GitHub](https://github.com/luca-martial/entity-normalization-engine)"%}
 
 ### ElonBot: The Discord AI Bot for Chatting and Moderation
 *June 2021* | *Python*

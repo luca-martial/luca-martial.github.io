@@ -7,7 +7,7 @@ author_profile: true
 
 **Interests**: using machine learning for anything other than cats vs dogs
 
-Currently building ML projects for my portfolio and studying deep learning.
+Currently building ML projects for my portfolio!
 
 **</>** Python, R, SQL, Bash // fastai, PyTorch, TensorFlow, AWS, GCP
 
