@@ -36,4 +36,4 @@ gallery:
 
 # Podcast
 
-{% include figure image_path="/images/watts.png" caption="Access it [here](https://www.facebook.com/thewattspodcast/)"%}
+{% include figure image_path="/images/watts.png"%}

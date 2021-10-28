@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-**Interests**: using machine learning for anything other than cats vs dogs
+**Interests**: using ML for anything other than cats vs dogs
 
 Currently building ML projects for my portfolio!
 
