@@ -9,6 +9,13 @@ author_profile: true
 
 # All Projects
 
+### Fast Neural Style Transfer
+*October 2021* | *Python*
+{% include figure image_path="/images/Projects18.png" caption="
+Demo app on Hugging Face Spaces for neural style transfer using the pretrained Arbitrary ImageStylization model from TensorFlow Hub.<br/><br/>
+
+Access the app [here](https://huggingface.co/spaces/luca-martial/neural-style-transfer). Code can be viewed on [GitHub](https://github.com/luca-martial/entity-normalization-engine)"%}
+
 ### Building an Entity Normalization Engine
 *August 2021* | *Python*
 {% include figure image_path="/images/Projects17.png" caption="
