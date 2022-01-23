@@ -5,13 +5,13 @@ permalink: /
 author_profile: true
 ---
 
-**Interests**: using ML for anything other than cats vs dogs
+**Interests**: most reasonable use cases of ML
 
-Currently building ML projects for my portfolio!
+Currently working at [John Snow Labs](https://www.johnsnowlabs.com/) as a data scientist. Contributor to the open source Spark NLP library and licensed Spark NLP for Healthcare library.
 
-**</>** Python, R, SQL, Bash // fastai, PyTorch, TensorFlow, AWS, GCP
+**</>** Python, R, SQL // PyTorch, TensorFlow, AWS, GCP
 
-**Education**: MSc. Public Health – McGill University, Canada
+**Education**: MSc. Public Health – McGill University, Canada // `self-learner`
 
 ------
 
