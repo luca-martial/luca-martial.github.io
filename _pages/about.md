@@ -11,7 +11,7 @@ Currently working at [John Snow Labs](https://www.johnsnowlabs.com/) as a data s
 
 **</>** Python, R, SQL // PyTorch, TensorFlow, AWS, GCP
 
-**Education**: self-learner // MSc. Public Health – McGill University, Canada
+**Education**: MSc. Public Health – McGill University, Canada
 
 ------
 
