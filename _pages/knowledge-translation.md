@@ -23,6 +23,12 @@ gallery:
 
 # Videos
 
+### Zero-Shot Information Extraction for Healthcare NLP<br/>
+{% include video id="1Ieb0_WoVcQ?start=4179" provider="youtube" %}
+
+### Text Classification and NER with BERT-based models<br/>
+{% include video id="B3xB9gaBosw" provider="youtube" %}
+
 ### Jooay - An App Locating Adapted Activities Around Canada<br/>
 {% include video id="0vk4HCBhGH8" provider="youtube" %}
 
