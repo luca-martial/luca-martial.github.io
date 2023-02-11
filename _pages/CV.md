@@ -155,17 +155,17 @@ for injured players, supervised return to play, designed and conducted strength 
 Topics: Biostatistics, Epidemiology, Health Data Science
 
 ### Concordia University - BSc, Exercise Science (2015 - 2018)
-Physiology, Epidemiology, Statistics
+Topics: Physiology, Epidemiology, Statistics
 
 
 ## Licenses & Certifications
 
-#### Spark NLP Data Scientist - John Snow Labs (Oct 2021)
+### Spark NLP Data Scientist - John Snow Labs (Oct 2021)
 
-#### Spark NLP Healthcare Data Scientist - John Snow Labs (Oct 2021)
+### Spark NLP Healthcare Data Scientist - John Snow Labs (Oct 2021)
 
-#### Implementing Knowledge Translation Strategies in Public Health - McMaster University (Nov 2018)
+### Implementing Knowledge Translation Strategies in Public Health - McMaster University (Nov 2018)
 
-#### Center for Innovation in Global Health - Ethical Challenges in Short-Term Global Health Training - Stanford University School of Medicine (Aug 2018)
+### Center for Innovation in Global Health - Ethical Challenges in Short-Term Global Health Training - Stanford University School of Medicine (Aug 2018)
 
-#### Foundations In Patient Oriented Research - Module 1: Patient Oriented Research (Aug 2018)
+### Foundations In Patient Oriented Research - Module 1: Patient Oriented Research (Aug 2018)
