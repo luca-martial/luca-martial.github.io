@@ -7,12 +7,25 @@ author_profile: true
 
 # Full CV
 
-*This page contains a detailed recount of my entire professional life experience. For a tailored version, please check out [my LinkedIn profile](linkedin.com/in/luca-martial-330776119).*
+*This page contains a detailed recount of my entire professional experience. For a tailored version, please check out [my LinkedIn profile](linkedin.com/in/luca-martial/).*
 
 ## Professional Experiences
 
+### Product Manager @Giskard
+*Jun 2023 - Present*
+- Working on AI Quality Control
+
+### Technical Product Manager @John Snow Labs
+*Dec 2022 - Jun 2023*
+- As a technical product manager, my role focuses on leading efforts on launching and maintaining a new product: NLP Test
+- Designing product roadmap with CTO
+- Leading technical design, development, feature prioritization, sprint planning, reviews & workload estimation with team of developers for bi-weekly releases
+- Interviewing early-stage users to prioritize pain points and feature development
+- Designing & leading product marketing strategy for product launch
+- Collaborating with UI designer on wireframes and website prototypes
+
 ### Data Scientist @John Snow Labs
-*Nov 2021 - Present*
+*Nov 2021 - Jun 2023*
 - Contributing to the open-source Spark NLP library and licensed Spark NLP for Healthcare library
 - Senior Data Science role, working with customers in the healthcare field implementing NLP solutions to solve business needs using Spark NLP, Spark NLP for Healthcare and Spark OCR. Work includes training Spark NLP models and deploying Streamlit demos for NER, relation extraction, text classification, de-identification, clinical entity resolution of medical notes and reports, building and
 deploying APIs for serving various NLP models using Docker and FastAPI, building POCs to showcase healthcare library capabilities
@@ -160,12 +173,12 @@ Topics: Physiology, Epidemiology, Statistics
 
 ## Licenses & Certifications
 
-### Spark NLP Data Scientist - John Snow Labs (Oct 2021)
+#### Spark NLP Data Scientist - John Snow Labs (Oct 2021)
 
-### Spark NLP Healthcare Data Scientist - John Snow Labs (Oct 2021)
+#### Spark NLP Healthcare Data Scientist - John Snow Labs (Oct 2021)
 
-### Implementing Knowledge Translation Strategies in Public Health - McMaster University (Nov 2018)
+#### Implementing Knowledge Translation Strategies in Public Health - McMaster University (Nov 2018)
 
-### Center for Innovation in Global Health - Ethical Challenges in Short-Term Global Health Training - Stanford University School of Medicine (Aug 2018)
+#### Center for Innovation in Global Health - Ethical Challenges in Short-Term Global Health Training - Stanford University School of Medicine (Aug 2018)
 
-### Foundations In Patient Oriented Research - Module 1: Patient Oriented Research (Aug 2018)
+#### Foundations In Patient Oriented Research - Module 1: Patient Oriented Research (Aug 2018)
