@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /
-  - title: "Coding Projects"
+  - title: "Technical Projects"
     url: /projects/
   - title: "Knowledge Translation"
     url: /knowledge-translation/
