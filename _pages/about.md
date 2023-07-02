@@ -7,6 +7,6 @@ author_profile: true
 
 **Interests**: democratizing AI
 
-Currently working at [John Snow Labs](https://www.johnsnowlabs.com/) as a data scientist & technical product manager. Contributor to the open source Spark NLP library and licensed Spark NLP for Healthcare library.
+Currently working on AI quality at [Giskard](https://www.giskard.ai/) as a product manager. 
 
-**</>** Python, R, SQL // Spark, PyTorch, TensorFlow, AWS, GCP, Azure
+Contributor to the open source Spark NLP library and licensed Spark NLP for Healthcare library.
