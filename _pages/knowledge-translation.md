@@ -37,6 +37,16 @@ gallery:
 
 ------
 
+# Blogposts
+
+### [Beyond Accuracy: Evaluating & Improving a Model with the NLP Test Library](https://www.kdnuggets.com/2023/04/john-snow-beyond-accuracy-nlp-test-library.html)
+
+### [Contextual Parser: Increased Flexibility Extracting Entities in Spark NLP](https://medium.com/spark-nlp/contextual-parser-increased-flexibility-extracting-entities-in-spark-nlp-123ed58672f0)
+
+### [ElonBot: Creating Elon Musk’s AI Replica](https://medium.com/@lucamrtl/elonbot-creating-elon-musks-ai-replica-a9c01cd7d55d)
+
+------
+
 # Courses Taught
 
 ### Spark NLP for Data Scientists - [Udemy Course](https://www.udemy.com/course/spark-nlp-for-data-scientists/)<br/>
