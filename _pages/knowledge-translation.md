@@ -23,16 +23,16 @@ gallery:
 
 # Talks
 
-### Healthcare-Specific Large Language Models in Action<br/>
+#### Healthcare-Specific Large Language Models in Action<br/>
 {% include video id="gLQRjknwfvM" provider="youtube" %}
 
-### Deliver Safe, Fair & Robust Language Models with the NLPTest Library<br/>
+#### Deliver Safe, Fair & Robust Language Models with the NLPTest Library<br/>
 {% include video id="_Bd9BJmzUEc" provider="youtube" %}
 
-### Zero-Shot Information Extraction for Healthcare NLP<br/>
+#### Zero-Shot Information Extraction for Healthcare NLP<br/>
 {% include video id="1Ieb0_WoVcQ?start=4179" provider="youtube" %}
 
-### Text Classification and NER with BERT-based models<br/>
+#### Text Classification and NER with BERT-based models<br/>
 {% include video id="B3xB9gaBosw" provider="youtube" %}
 
 ------
