@@ -37,25 +37,33 @@ gallery:
 
 ------
 
-# Blogposts
+# Courses Taught
 
-### [Beyond Accuracy: Evaluating & Improving a Model with the NLP Test Library](https://www.kdnuggets.com/2023/04/john-snow-beyond-accuracy-nlp-test-library.html)
-
-### [Contextual Parser: Increased Flexibility Extracting Entities in Spark NLP](https://medium.com/spark-nlp/contextual-parser-increased-flexibility-extracting-entities-in-spark-nlp-123ed58672f0)
-
-### [ElonBot: Creating Elon Musk’s AI Replica](https://medium.com/@lucamrtl/elonbot-creating-elon-musks-ai-replica-a9c01cd7d55d)
+#### Spark NLP for Data Scientists - [Udemy Course](https://www.udemy.com/course/spark-nlp-for-data-scientists/)<br/>
 
 ------
 
-# Courses Taught
+# Blogposts
 
-### Spark NLP for Data Scientists - [Udemy Course](https://www.udemy.com/course/spark-nlp-for-data-scientists/)<br/>
+#### [Beyond Accuracy: Evaluating & Improving a Model with the NLP Test Library](https://www.kdnuggets.com/2023/04/john-snow-beyond-accuracy-nlp-test-library.html)
+
+#### [Contextual Parser: Increased Flexibility Extracting Entities in Spark NLP](https://medium.com/spark-nlp/contextual-parser-increased-flexibility-extracting-entities-in-spark-nlp-123ed58672f0)
+
+#### [ElonBot: Creating Elon Musk’s AI Replica](https://medium.com/@lucamrtl/elonbot-creating-elon-musks-ai-replica-a9c01cd7d55d)
+
+---
+
+# Publications
+
+#### [Using crowdsourced data to assess the relationship between neighbourhood-level deprivation and the availability of inclusive leisure programmes in Canadian cities. Ebele R.I. Mogo, Luca Martial, José A. Correa, Annette Majnemer \& Keiko Shikako (2022), Cities \& Health.](https://www.tandfonline.com/doi/full/10.1080/23748834.2022.2027710)
+
+#### [Promoting Health through Accessible Public Playgrounds. Movahed M, Martial L, Poldma T, Slanik M, Shikako K. (2023), Children.](https://www.mdpi.com/2227-9067/10/8/1308)
 
 ---
 
 # Video Production
 
-### Jooay - An App Locating Adapted Activities Around Canada<br/>
+#### Jooay - An App Locating Adapted Activities Around Canada<br/>
 {% include video id="0vk4HCBhGH8" provider="youtube" %}
 
 ------
